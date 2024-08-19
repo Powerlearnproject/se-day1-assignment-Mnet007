@@ -49,7 +49,6 @@ What are some common challenges faced by software engineers? Provide strategies 
 Answer;
 Challenge: Scope Creep.
 Solution: Clear requirements and change management.
-
 Challenge: Technical Debt.
 Solution: Regular code reviews and refactoring.
 
